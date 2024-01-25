@@ -3,7 +3,7 @@
                                                         😃️ AI Researcher 😃️
                                                             
                                                 PyTorch | Keras | TensorFlow | scikit-learn
-                                         NumPy | OpenCV | Matplotlib | Pandas | scikit-image
+                                         NumPy | OpenCV | Matplotlib | Pandas | scikit-image | stable-baseline3
                                               PyCharm | Jupyter Notebook | Git | GitHub
                                                          Ubuntu | Windows
                                        Communication | Teamwork | Problem-Solving | Creative Thinking
