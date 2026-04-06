@@ -1,68 +1,27 @@
-# 👋 Welcome to My GitHub
+                                                    Welcome to my GitHub Profile 👋
+                                                            
+                                                        😃️ AI Researcher 😃️
+                                                            
+                                                PyTorch | Keras | TensorFlow | Scikit-learn  
+                                NumPy | OpenCV | Matplotlib | Pandas | Scikit-image | Stable-Baselines3  
+                                                 PyCharm | Jupyter Notebook | Git | GitHub  
+                                                         Ubuntu | Windows  
+                                      Communication | Teamwork | Problem-Solving | Creative Thinking
 
-## M.J. Aashik Rasool  
-**AI Research Engineer | PhD Candidate**
 
-Computer Vision • Medical Imaging • Agentic AI • 3D Editing  
 
----
+<div align="center" >
+ 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20C4C6&height=120&section=header"/>
 
-## 🚀 About Me
-- AI Researcher focused on **efficient deep learning for real-world deployment**
-- Working on:
-  - Image Super-Resolution & Enhancement  
-  - Medical Imaging AI  
-  - Agentic AI systems  
-  - 3D Scene Understanding & Editing  
-- Research oriented toward **edge AI and resource-constrained environments**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=65&pause=500&color=D5D5D5&vCenter=true&width=600&height=70&lines=Aashik+Rasool;Python;Deep+Learning;Super-Resolution;Reinforcement+Learning;Ensemble+Learning)](https://git.io/typing-svg)
+  
+</div>
 
----
-
-## 🧠 Core Expertise
-- Super-Resolution & Image Restoration  
-- Knowledge Distillation & Model Compression  
-- Reinforcement Learning & NAS  
-- Medical Image Analysis  
-- Agentic AI & LLM Fine-tuning  
-- 3D Scene Editing & Neural Rendering  
-
----
-
-## 🛠️ Tech Stack
-
-### Frameworks & Libraries
-- PyTorch, TensorFlow, Keras, scikit-learn  
-- NumPy, OpenCV, Pandas, Matplotlib, scikit-image  
-- Stable-Baselines3  
-
-### Tools
-- Jupyter Notebook, PyCharm  
-- Git, GitHub  
-- Ubuntu, Windows  
-
----
-
-## 💡 Skills
-Communication • Teamwork • Problem-Solving • Creative Thinking  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashikrasool&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashikrasool&theme=nord_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashikrasool&theme=nord_dark&utcOffset=9" />
-</p>
-
----
-
-## ⚡ Focus Areas
-- Real-time Image Enhancement  
-- Medical AI Systems  
-- Agentic AI for Vision Tasks  
-- AI-driven 3D Editing & Scene Manipulation  
-
----
-
-⭐ *Always exploring new ideas at the intersection of AI, vision, and real-world systems*
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aashikrasool&show_icons=true&theme=nord_dark" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aashikrasool&show_icons=true&theme=nord_dark" >
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aashikrasool&show_icons=true&theme=nord_dark&utcOffset=8" > 
+    
+</div>
