@@ -14,8 +14,7 @@
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20C4C6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=65&pause=500&color=D5D5D5&vCenter=true&width=600&height=70&lines=Aashik+Rasool;Python;Deep+Learning;Super-Resolution;Reinforcement+Learning;Ensemble+Learning)](https://git.io/typing-svg)
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Mouse+Memoirs&size=65&pause=500&color=D5D5D5&vCenter=true&width=600&height=70&lines=Aashik+Rasool;Super-Resolution;Knowledge+Distillation;Medical+Imaging;GANs;Edge+AI;LLM+Fine-tuning;Object+Detection;Image+Denoising)](https://git.io/typing-svg)  
 </div>
 
 <div align="center">
